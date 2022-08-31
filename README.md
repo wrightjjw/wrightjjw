@@ -21,6 +21,8 @@ which my [D&D tools](https://github.com/wrightjjw/dndtools) are written in.
 I'm thinking about revisiting the language!
 
 I'm also pretty interested in web technologies.
+Web apps are really easy to use,
+so I see a great future in many of these emerging technologies.
 My work has gotten me interested in [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)!
 I may end up using it for a project of my own someday.
 
